@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Pandey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right"alt="Analyzing" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right"alt="Analyzing" width="400" src="![image](https://github.com/Aryanvinodpandey/Aryanvinodpandey/assets/82766370/6543d8bb-1309-40b9-a6e0-ba7a43b21770)
+">
+">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
