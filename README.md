@@ -7,7 +7,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/aryan pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan pandey" height="30" width="40" /></a>
 </p>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Email-alt.svg" alt="pandeyaryan856@gmail.com" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/![image](https://github.com/Aryanvinodpandey/Aryanvinodpandey/assets/82766370/b28d3a69-3360-49f9-a77b-debf94eb2a5d)
+-alt.svg" alt="pandeyaryan856@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
